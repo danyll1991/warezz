@@ -37,6 +37,7 @@ sidebar_label: Userscripts
 - [Local YouTube Downloader](https://greasyfork.org/en/scripts/369400-local-youtube-downloader) - Download YouTube Videos without youtube-dl or external websites/tools.
 - [Get Discord Token](https://greasyfork.org/en/scripts/395741-get-discord-token) - Allows you to retrieve your user token for reference.
 - [YouTube to Invidious](https://greasyfork.org/en/scripts/375264-youtube-to-invidious) - Scan page for YouTube embeds and urls and replace with Invidious.
+- [Google Play Apk](https://www.googleplay-apk.com) - Allows you to download google play store.
 
 ## Userscript Managers
 
